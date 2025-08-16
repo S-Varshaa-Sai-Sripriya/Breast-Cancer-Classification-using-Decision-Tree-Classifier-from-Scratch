@@ -1,4 +1,4 @@
-# 🧬 Breast Cancer Prediction using Decision Tree Classifier from Scratch
+# 🧬 Breast Cancer Classification using Decision Tree Classifier from Scratch
 
 This project implements a Decision Tree Classifier from scratch to classify tumors as Malignant or Benign using the Breast Cancer Wisconsin dataset.  
 
